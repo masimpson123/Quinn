@@ -3,7 +3,7 @@
     {
       "size" : "24x24",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-4.png",
+      "filename" : "iOS13_IconTemp_2-4.png",
       "scale" : "2x",
       "role" : "notificationCenter",
       "subtype" : "38mm"
@@ -11,7 +11,7 @@
     {
       "size" : "27.5x27.5",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-5.png",
+      "filename" : "iOS13_IconTemp_2-5.png",
       "scale" : "2x",
       "role" : "notificationCenter",
       "subtype" : "42mm"
@@ -19,21 +19,21 @@
     {
       "size" : "29x29",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-6.png",
+      "filename" : "iOS13_IconTemp_2-6.png",
       "role" : "companionSettings",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-10.png",
+      "filename" : "iOS13_IconTemp_2-10.png",
       "role" : "companionSettings",
       "scale" : "3x"
     },
     {
       "size" : "40x40",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-9.png",
+      "filename" : "iOS13_IconTemp_2-9.png",
       "scale" : "2x",
       "role" : "appLauncher",
       "subtype" : "38mm"
@@ -41,7 +41,7 @@
     {
       "size" : "44x44",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-11.png",
+      "filename" : "iOS13_IconTemp_2-11.png",
       "scale" : "2x",
       "role" : "appLauncher",
       "subtype" : "40mm"
@@ -49,7 +49,7 @@
     {
       "size" : "50x50",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-12.png",
+      "filename" : "iOS13_IconTemp_2-12.png",
       "scale" : "2x",
       "role" : "appLauncher",
       "subtype" : "44mm"
@@ -57,7 +57,7 @@
     {
       "size" : "86x86",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-16.png",
+      "filename" : "iOS13_IconTemp_2-16.png",
       "scale" : "2x",
       "role" : "quickLook",
       "subtype" : "38mm"
@@ -65,7 +65,7 @@
     {
       "size" : "98x98",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-18.png",
+      "filename" : "iOS13_IconTemp_2-18.png",
       "scale" : "2x",
       "role" : "quickLook",
       "subtype" : "42mm"
@@ -73,7 +73,7 @@
     {
       "size" : "108x108",
       "idiom" : "watch",
-      "filename" : "iOS13_Icon-19.png",
+      "filename" : "iOS13_IconTemp_2-19.png",
       "scale" : "2x",
       "role" : "quickLook",
       "subtype" : "44mm"
@@ -81,7 +81,7 @@
     {
       "size" : "1024x1024",
       "idiom" : "watch-marketing",
-      "filename" : "iOS13_Icon-20.png",
+      "filename" : "iOS13_IconTemp_2-20.png",
       "scale" : "1x"
     }
   ],
